@@ -1,0 +1,5 @@
+*.py
+*.json
+.DS_Store
+*.sh
+*.zip
